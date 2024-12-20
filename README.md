@@ -23,3 +23,4 @@
 - [2022-Realtime Instore Sentiment Analysis Risa](https://rahulbakshee.github.io/iWriteHere/2022/03/08/RealTime-InStore-Sentiment-Analysis-RISA.html)
 - [2022-Multi-Class Image Classification](https://rahulbakshee.github.io/iWriteHere/2022/02/08/Deep-Learning-Take-Home-Assignment.html)
 - [2022-Quick Ways Of Data Loading In Tensorflow](https://rahulbakshee.github.io/iWriteHere/2022/01/16/Quick-ways-of-data-loading-in-TensorFlow.html)
+- [2020-Ultimate Deep Learning PC Build for Beginners](https://rahulbakshee.github.io/iWriteHere/2020/10/15/Deep-Learning-pc-build-beginners-2020.html)
