@@ -6,7 +6,7 @@
   - Cloud-based ML solutions (AWS SageMaker, GCP AI/ML tools)
   - Scalable systems for ML model deployment (e.g., Kubernetes, Docker)
 
-### Projects
+### Projects (Work in Progress)
 - Distributed Training
   - [Distributed Training with TensorFlow]()
   - [Distributed Training with PyTorch]()
@@ -17,6 +17,7 @@
   - [Agentic Workflow]()
   - []()
   - []()
+ 
 
 ### Old blogs
 - [2023-Introduction To Recommendation Systems](https://rahulbakshee.github.io/iWriteHere/2023/03/04/Introduction-to-Recommendation-Systems.html)
