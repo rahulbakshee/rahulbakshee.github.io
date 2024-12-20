@@ -4,8 +4,13 @@ plugins:
 
 title: Rahul Bakshee
 # logo: /assets/img/logo.png
-description: Senior Machine Learning Engineer with a strong background in developing, designing, deploying, and optimizing large-scale ML solutions.
-<a href="https://www.linkedin.com/in/rahulbakshee/">👔 LinkedIn</a>
+description: > 
+  Machine Learning Engineer | Data Scientist | Software Engineering | Cloud | Artificial Intelligence | Omnichannel
+  <br><br>
+  Experienced in building large-scale AI/ML solutions, with expertise in Deep Learning, NLP, and Generative AI (LLMs, RAG, LangChain). Proven impact through innovative model deployment, boosting revenue, reducing costs, and accelerating healthcare solutions. Adept in Python, TensorFlow, PyTorch, MLOps, and cloud platforms (AWS, GCP, Azure), delivering business value with cutting-edge AI.
+
+<a href="https://www.linkedin.com/in/rahulbakshee/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+
 # show_downloads: true
-# google_analytics:
+# google_analytics: your Google Analytics tracking ID here
 theme: jekyll-theme-minimal
