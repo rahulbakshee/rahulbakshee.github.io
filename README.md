@@ -23,11 +23,15 @@
 - [Get started with Hugging Face]()
 - [Get started with LangChain]()
 - [Get started with Apache Spark]()
-- 
 
 ### blog
+- [Bias vs. Variance Tradeoff]()
+- [Exploration vs. Exploitation]()
+- [Overfitting, Underfitting, and Regularization]()  
+- 
 - [Understanding Attention]()
 - [Understanding Transformers]()
+- 
 
 ### Old blogs
 - [2023-Introduction To Recommendation Systems](https://rahulbakshee.github.io/iWriteHere/2023/03/04/Introduction-to-Recommendation-Systems.html)
