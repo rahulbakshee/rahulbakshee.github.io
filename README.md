@@ -1,4 +1,4 @@
-# Learning Machine Learning
+# Learning Machine Learning (Work in Progress)
 
 ### My skills
   - Deep Learning frameworks (TensorFlow, PyTorch, etc.)
@@ -6,7 +6,7 @@
   - Cloud-based ML solutions (AWS SageMaker, GCP AI/ML tools)
   - Scalable systems for ML model deployment (e.g., Kubernetes, Docker)
 
-### Projects (Work in Progress)
+### Projects 
 - Distributed Training
   - [Distributed Training with TensorFlow]()
   - [Distributed Training with PyTorch]()
@@ -16,8 +16,18 @@
   - [RAG pipeline to query over SQL database tables]()
   - [Agentic Workflow]()
   - []()
-  - []()
- 
+
+### Tutorials
+- [Get started with TensorFlow]()
+- [Get started with PyTorch]()
+- [Get started with Hugging Face]()
+- [Get started with LangChain]()
+- [Get started with Apache Spark]()
+- 
+
+### blog
+- [Understanding Attention]()
+- [Understanding Transformers]()
 
 ### Old blogs
 - [2023-Introduction To Recommendation Systems](https://rahulbakshee.github.io/iWriteHere/2023/03/04/Introduction-to-Recommendation-Systems.html)
