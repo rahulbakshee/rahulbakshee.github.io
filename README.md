@@ -25,21 +25,32 @@
 - [Get started with Apache Spark]()
 
 ### blog
+- [Understanding Attention]()
+- [Understanding Transformers]()
 - [Bias-Variance Tradeoff]()
 - [Exploration vs. Exploitation]()
 - [Overfitting, Underfitting, and Regularization(L1, L2)]()
+  
   when to use which?
 - [Gradient Descent]()
 - [Optimizers in Deep Learning]()
-- [Metrics in Deep Learning]()
+
+  Momentum, RMSProp, Adam
+- [Loss and Metrics in Deep Learning]()
 - [Activation function in Deep Learning]()
-- [Eploding and Vanishing Gradient problem]()
+- [Exploding and Vanishing Gradient problem]()
 - []()
 - []()
 - []()
-- [Understanding Attention]()
-- [Understanding Transformers]()
-- 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ### Old blogs
 - [2023-Introduction To Recommendation Systems](https://rahulbakshee.github.io/iWriteHere/2023/03/04/Introduction-to-Recommendation-Systems.html)
