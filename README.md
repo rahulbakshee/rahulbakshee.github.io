@@ -27,12 +27,13 @@
 ### blog
 - [Bias-Variance Tradeoff]()
 - [Exploration vs. Exploitation]()
-- [Overfitting, Underfitting, and Regularization]()  
+- [Overfitting, Underfitting, and Regularization(L1, L2)]()
+  when to use which?
 - [Gradient Descent]()
 - [Optimizers in Deep Learning]()
 - [Metrics in Deep Learning]()
 - [Activation function in Deep Learning]()
-- []()
+- [Eploding and Vanishing Gradient problem]()
 - []()
 - []()
 - []()
