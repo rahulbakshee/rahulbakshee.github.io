@@ -29,9 +29,9 @@
 - [Understanding Transformers]()
 - [Bias-Variance Tradeoff]()
 - [Exploration vs. Exploitation]()
-- [Overfitting, Underfitting, and Regularization(L1, L2)]()  when to use which?
+- [Overfitting, Underfitting, and Regularization(L1, L2)]()
 - [Gradient Descent]()
-- [Optimizers in Deep Learning]()  Momentum, RMSProp, Adam
+- [Optimizers in Deep Learning]()
 - [Loss and Metrics in Deep Learning]()
 - [Activation function in Deep Learning]()
 - [Exploding and Vanishing Gradient problem]()
