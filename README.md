@@ -25,10 +25,17 @@
 - [Get started with Apache Spark]()
 
 ### blog
-- [Bias vs. Variance Tradeoff]()
+- [Bias-Variance Tradeoff]()
 - [Exploration vs. Exploitation]()
 - [Overfitting, Underfitting, and Regularization]()  
-- 
+- [Gradient Descent]()
+- [Optimizers in Deep Learning]()
+- [Metrics in Deep Learning]()
+- [Activation function in Deep Learning]()
+- []()
+- []()
+- []()
+- []()
 - [Understanding Attention]()
 - [Understanding Transformers]()
 - 
